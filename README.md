@@ -1,45 +1,69 @@
-# 📘 Data Structures and Algorithms Practice
+# 📘 Data Structures and Algorithms (DSA) Practice Repository
 
-Welcome to my DSA (Data Structures and Algorithms) practice repository!  
-This repo contains a collection of problems I’ve solved while preparing for coding interviews and improving my problem-solving skills.
+Welcome to my professional DSA practice repository. This repository documents the collection of coding problems I have solved as part of my preparation for technical interviews and to enhance my algorithmic thinking and coding proficiency.
 
-## ✨ About
-This repository helps me:
-- Track my DSA progress across various platforms like LeetCode, GeeksforGeeks, Codeforces, etc.
-- Organize solutions by topic and platform
-- Share my approach and code with others
-- Practice consistently and measure growth over time
+## 📌 Objective
 
-## 📂 Structure
-The repository is organized by topics such as:
+This repository serves as a structured record of my problem-solving journey, categorized both **topic-wise** and **pattern-wise** (e.g., Sliding Window, Two Pointers, Binary Search, Dynamic Programming). It showcases not only the breadth of problems I have tackled but also the structured approach I followed in mastering core DSA concepts.
+
+## ✅ Key Highlights
+
+- 📂 Organized by **Data Structure** (e.g., Arrays, Strings, Trees, Graphs, etc.)
+- 📌 Categorized by **Problem Solving Patterns** (e.g., Sliding Window, BFS/DFS, Greedy, Two Pointers, Recursion/Backtracking)
+- 💡 Each solution includes:
+  - Problem statement or reference link
+  - Code implementation in Java/Python/C++
+  - Comments explaining the approach
+  - Time and space complexity analysis
+
+## 📚 Patterns Covered
+
+- ✅ Sliding Window
+- ✅ Two Pointers
+- ✅ Fast and Slow Pointers
+- ✅ Binary Search
+- ✅ BFS & DFS
+- ✅ Backtracking
+- ✅ Greedy Algorithms
+- ✅ Dynamic Programming
+- ✅ Kadane's Algorithm
+- ✅ Prefix Sum, Hashing, and more...
+
+## 🧠 Topics Covered
+
 - Arrays
 - Strings
 - Linked Lists
 - Stacks & Queues
 - Trees & Graphs
+- Heaps & HashMaps
+- Recursion & Backtracking
+- Sorting & Searching
+- Bit Manipulation
 - Dynamic Programming
-- Sliding Window, Two Pointers, and more
 
-Each folder contains:
-- ✅ Problem statement (as a comment)
-- ✅ Code solution (in Java, Python, or C++)
-- ✅ (Optional) Approach and time/space complexity
+## 🌐 Platforms Practiced On
 
-## 💻 Platforms Covered
 - [LeetCode](https://leetcode.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Codeforces](https://codeforces.com/)
 - [HackerRank](https://www.hackerrank.com/)
+- [Coding Ninjas](https://www.codingninjas.com/)
 
-## 📊 Sample Progress Table
+## 📊 Sample Problem Progress Table
 
-| # | Problem | Topic | Platform | Language | Link |
-|--|---------|-------|----------|----------|------|
-| 1 | Two Sum | Arrays | LeetCode | Java | [Problem](https://leetcode.com/problems/two-sum/) |
-| 2 | Detect Loop in Linked List | Linked List | GFG | C++ | [Problem](https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/) |
+| # | Problem | Topic | Pattern | Platform | Language | Link |
+|--|---------|--------|---------|----------|----------|------|
+| 1 | Two Sum | Arrays | Hashing | LeetCode | Java | [Link](https://leetcode.com/problems/two-sum/) |
+| 2 | Longest Substring Without Repeating Characters | Strings | Sliding Window | LeetCode | Python | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 3 | Detect Loop in Linked List | Linked List | Fast & Slow Pointers | GFG | C++ | [Link](https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/) |
+
+## 🚀 Goal
+
+To develop a strong foundation in solving algorithmic problems efficiently, improve coding speed, and prepare thoroughly for coding interviews at product-based companies.
 
 ---
 
-Stay tuned as I keep updating this repository regularly! 🚀  
-If you find this helpful, feel free to ⭐ the repo. Let's grow together in DSA! 💪
+🔄 This repository will be regularly updated with new problems and refined solutions.  
+📬 Feel free to fork, star ⭐, and share feedback!
 
