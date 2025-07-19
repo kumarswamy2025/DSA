@@ -24,7 +24,10 @@ class Solution {
         
         }
         
-         return slow;   // middle ele
+        //  return slow;   // middle ele
+      
+         return bruteForce(head);
+    
     }
 
     // brute force apporach :  traverse linked list and count elements and divide by 2 we get middle element 
