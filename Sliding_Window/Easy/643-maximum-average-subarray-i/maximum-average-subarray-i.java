@@ -24,8 +24,8 @@ class Solution {
 
         }
 
-        // return (double) maxSum / k;
-        return bruteForceApporach(nums,k);
+        return (double) maxSum / k;
+        // return bruteForceApporach(nums,k);
 
     }
 
