@@ -11,7 +11,15 @@ class Solution {
         }
         
         
-        return fast == 1; // happy number if fast reaches 1
+       // return fast == 1; // happy number if fast reaches 1
+
+       if(fast==1){
+        return true;
+       }
+       else{
+        return false;
+       }
+
 
     }
 
