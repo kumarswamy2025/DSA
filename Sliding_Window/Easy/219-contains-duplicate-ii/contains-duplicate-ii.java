@@ -26,11 +26,15 @@ class Solution {
             }
             // checking if set size is greater than or equal to k+1 then remove left ele
             if(set.size()>=k+1){
+                 // Remove the last visited element from the set
                 set.remove(nums[left]);
+                // update left
                 left++;
             }
 
         }
+                // If no duplicate element is found then return false...
+
         return false;
     }
 }
