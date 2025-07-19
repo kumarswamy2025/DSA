@@ -24,9 +24,9 @@ class Solution {
         
         }
         
-        //  return slow;   // middle ele
+          return slow;   // middle ele
       
-         return bruteForce(head);
+        //  return bruteForce(head);
     
     }
 
