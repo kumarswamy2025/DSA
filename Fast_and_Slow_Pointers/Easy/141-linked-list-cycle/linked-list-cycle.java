@@ -15,7 +15,7 @@ public class Solution {
         ListNode slow=head; // slow pointer start at begging node
         ListNode fast=head; // fast pointer start at begging node
 
-        while(fast!=null && fast.next!=null ){
+   /*     while(fast!=null && fast.next!=null ){
             // slow pointer move one step forward
             slow=slow.next;
             // fast pointer move two steps forward
@@ -27,8 +27,10 @@ public class Solution {
             }
         
         }
-        return false; // cycle does not exits
-
+        */
+        // return false; // cycle does not exits
+  
+      return hashsetApporach(head);
 
     }
 
