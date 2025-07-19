@@ -16,8 +16,9 @@ class Solution {
             // remove first ele from sum
             sum=sum-nums[i-k];
 
-            // adding k+1 elem
+            // adding i(current ele) element
             sum=sum+nums[i];
+            
             maxSum=Math.max(maxSum,sum);
 
 
