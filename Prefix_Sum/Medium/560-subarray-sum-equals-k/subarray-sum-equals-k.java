@@ -1,5 +1,5 @@
 class Solution {
-    // sloving using brute force
+    // solving using brute force
     public int subarraySum(int[] nums, int k) {
         int count=0;
 
